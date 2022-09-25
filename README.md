@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedaziz22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedaziz22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedaziz22" alt="mohamedaziz22" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@iamaziz_21" target="blank"><img src="https://img.shields.io/twitter/follow/@iamaziz_21?logo=twitter&style=for-the-badge" alt="@iamaziz_21" /></a> </p>
 
 - 🔭 I’m currently working on **Reactjs**
@@ -20,10 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@iamaziz_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iamaziz_21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed aziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed aziz" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mohamedaziz22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mohamedaziz22" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_aziz_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_aziz_22" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aziz gameplay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aziz gameplay" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/channel/ucphrvebhsbkomoacenv4lkw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucphrvebhsbkomoacenv4lkw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,6 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedaziz22&show_icons=true&locale=en" alt="mohamedaziz22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaziz22&" alt="mohamedaziz22" /></p>
+
 
 
 #SNAKE EATING MY GRAPH
