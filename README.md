@@ -3,7 +3,7 @@
 <h1 align="center"> I'm Aziz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="hello" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="" src="" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedaziz22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedaziz22" /> </p>
 
