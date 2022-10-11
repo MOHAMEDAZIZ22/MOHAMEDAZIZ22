@@ -44,5 +44,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaziz22&" alt="mohamedaziz22" /></p>
 
 ## Snake Eating My graph
-![snake gif  width="800"](https://github.com/MOHAMEDAZIZ22/MOHAMEDAZIZ22/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MOHAMEDAZIZ22/MOHAMEDAZIZ22/blob/output/github-contribution-grid-snake.gif)
 
