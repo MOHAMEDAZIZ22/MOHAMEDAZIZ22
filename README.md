@@ -32,16 +32,13 @@
 
 
 
-
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedaziz22&show_icons=true&locale=en&layout=compact" alt="mohamedaziz22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedaziz22&show_icons=true&locale=en" alt="mohamedaziz22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaziz22&" alt="mohamedaziz22" /></p>
+
+<a href="https://github.com/MOHAMEDAZIZ22/github-readme-activity-graph"><img alt="Aziz Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MOHAMEDAZIZ22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Snake Eating My graph
 ![snake gif](https://github.com/MOHAMEDAZIZ22/MOHAMEDAZIZ22/blob/output/github-contribution-grid-snake.gif)
