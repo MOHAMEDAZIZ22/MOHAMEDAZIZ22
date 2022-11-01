@@ -41,7 +41,6 @@
 
 [![Aziz's github activity graph](https://activity-graph.herokuapp.com/graph?username=MOHAMEDAZIZ22&theme=merko)](https://github.com/MOHAMEDAZIZ22/github-readme-activity-graph)
 
-
 ## Snake Eating My graph
 ![snake gif](https://github.com/MOHAMEDAZIZ22/MOHAMEDAZIZ22/blob/output/github-contribution-grid-snake.gif)
 
