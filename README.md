@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Reactjs**
 
-- 🌱 I’m currently learning **Mysql,figma**
+- 🌱 I’m currently learning **Mysql, figma**
 
 - 💬 Ask me about **HTML, CSS, Java Script, React JS**
 
