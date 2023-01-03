@@ -10,18 +10,20 @@
 
 - 🌱 I’m currently learning **Mysql, figma**
 
+- 👨‍💻 All of my projects are available at [https://github.com/MOHAMEDAZIZ22](https://github.com/MOHAMEDAZIZ22)
+
 - 💬 Ask me about **HTML, CSS, Java Script, React JS**
 
 - 📫 How to reach me **erazizeee@gmail.com**
 
-- ⚡ Fun fact **Iam Polite**
+- ⚡ Fun fact **Iam Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@iamaziz_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iamaziz_21" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mohamedaziz22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mohamedaziz22" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_aziz_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_aziz_22" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@azizgameplay3303/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@azizgameplay3303" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@MOHAMEDAZIZ_22/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@MOHAMEDAZIZ_22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
