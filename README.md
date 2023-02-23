@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **erazizeee@gmail.com**
 
-- ⚡ Fun fact **Iam Funny**
+- ⚡ Fun fact **Iam Polite**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +44,6 @@
 
 [![Aziz's github activity graph](https://activity-graph.herokuapp.com/graph?username=MOHAMEDAZIZ22&theme=merko)](https://github.com/MOHAMEDAZIZ22/github-readme-activity-graph)
 
-## Snake Eating My graph
+
 ![snake gif](https://github.com/MOHAMEDAZIZ22/MOHAMEDAZIZ22/blob/output/github-contribution-grid-snake.gif)
 
