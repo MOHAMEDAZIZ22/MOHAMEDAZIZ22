@@ -1,8 +1,8 @@
-<img align="center" alt="hello" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966"/><h1 align="center"> I'm Aziz</h1>
+<img align="center" alt="hello" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgraphics-cafe.tumblr.com%2Fpost%2F683816019644579840&psig=AOvVaw0vz1YREf49u1gBP6PHGFyl&ust=1729028445706000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjuzofrjokDFQAAAAAdAAAAABAJ"/><h1 align="center"> I'm Aziz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedaziz22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedaziz22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedaziz22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedaziz22"/> </p>
 <img align="right" alt="" height="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" />
 
 - 🔭 I’m currently working on **Reactjs**
