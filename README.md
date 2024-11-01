@@ -1,4 +1,4 @@
-<img align="center" alt="hello" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgraphics-cafe.tumblr.com%2Fpost%2F683816019644579840&psig=AOvVaw0vz1YREf49u1gBP6PHGFyl&ust=1729028445706000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjuzofrjokDFQAAAAAdAAAAABAJ"/><h1 align="center"> I'm Aziz</h1>
+<img align="center" alt="hello" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgraphics-cafe.tumblr.com%2Fpost%2F683816019644579840&psig=AOvVaw0vz1YREf49u1gBP6PHGFyl&ust=1729028445706000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjuzofrjokDFQAAAAAdAAAAABAJ"/><h1 align="center"> I'm Mohamed Aziz </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
