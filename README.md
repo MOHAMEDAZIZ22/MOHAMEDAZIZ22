@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, Java Script, React JS**
 
-- 📫 How to reach me **erazizeee@gmail.com**
+- 📫 How to reach me ** erazizeee@gmail.com **
 
 - ⚡ Fun fact **Iam Polite**
 
